@@ -1,3 +1,3 @@
 # Responsive Landing Page Beats by Dre 🎧
 
-marcuscaiado.github.io/beats
+https://marcuscaiado.github.io/beats/
